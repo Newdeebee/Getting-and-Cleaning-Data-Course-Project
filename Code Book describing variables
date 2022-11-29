@@ -2,3 +2,8 @@ Most of the variables were unable to get uploaded due to file size.
 The link address used to obtain the data is https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 The R script describes the output and the various datasets and how it is created and analysis is performed.
 The final output is created as Tidy_Data.
+
+About variables:
+xtrain, ytrain, xtest, ytest, subjecttrain and subjecttest contain the data from the downloaded files.
+train, test and Combine merge the previous datasets to further analysis.
+colNames contains the column names for the Combined dataset.
