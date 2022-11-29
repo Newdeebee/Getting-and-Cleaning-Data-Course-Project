@@ -1,0 +1,4 @@
+Most of the variables were unable to get uploaded due to file size.
+The link address used to obtain the data is https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+The R script describes the output and the various datasets and how it is created and analysis is performed.
+The final output is created as Tidy_Data.
