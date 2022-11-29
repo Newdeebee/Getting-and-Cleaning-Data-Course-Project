@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data-Course-Project
-##downlaoding relevant packages
+##downloading relevant packages
 install.packages("readr")
 install.packages("plyr")
 library(readr)
@@ -53,7 +53,7 @@ Combined<- rbind(train, test)
 
 
 ##Part2
-# Need step is to read all the values that are available
+# Next step is to read all the values that are available
 colNames = colnames(Combined)
 
 #Need to get a subset of all the mean and standards and the correspondongin activityID and subjectID 
